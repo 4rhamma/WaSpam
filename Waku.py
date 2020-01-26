@@ -48,7 +48,7 @@ def main():
 	headers = {
 	'Connection' : 'keep-alive',
 	'Accept' : 'application/json, text/javascript, */*; q=0.01',
-	'Origin' : 'www.bappenas.go.id',
+	'Origin' : 'https://accounts.tokopedia.com',
 	'X-Requested-With' : 'XMLHttpRequest',
 	'User-Agent' : '{acak}',
 	'Content-Type' : 'application/x-www-form-urlencoded; charset=UTF-8',
